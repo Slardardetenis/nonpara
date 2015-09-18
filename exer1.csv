@@ -1,0 +1,11 @@
+tipo de famílias com 5 filhos,Classe 1,Classe 2,Classe 3,Classe 4,Classe 5,Classe 6,Total
+Mulheres,5,4,3,2,1,0,
+Homens,0,1,2,3,4,5,
+quantidade Famílias,18,56,110,88,40,8,320
+total mulheres por classe,90,224,330,176,40,0,860
+total homens por classe,0,56,220,264,160,40,740
+total para cada classe,90,280,550,440,200,40,1600
+% de mulheres por classe,1,"0,8","0,6","0,4","0,2",0,
+% de homens por classe,0,"0,2","0,4","0,6","0,8",1,
+frequências observadas,"0,05625","0,175","0,34375","0,275","0,125","0,025",1
+frequências esperadas,"0,03125","0,15625","0,3125","0,3125","0,15625","0,03125",1
